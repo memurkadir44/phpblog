@@ -1,2 +1,2 @@
-Sunum dosyamın githuba yükledim : Abdülkadir_Memur_221120211035_finalödeviİnternetProg (1).pdf
+Sunum dosyamın githuba yükledim : https://github.com/memurkadir44/phpblog/blob/26792188551fd9e433b78e5b5a4ea0412a00adeb/Abd%C3%BClkadir_Memur_221120211035_final%C3%B6devi%C4%B0nternetProg%20(1).pdf
 Kullandığım github kütüphane linki : https://github.com/ugurkilci/hafizilib/find/master
